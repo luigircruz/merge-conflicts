@@ -14,3 +14,10 @@
   duration: 2015 &mdash; Present
   url: "https://github.com/education/classroom"
   description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+  
+# Autobot
+- project: autobot
+  role: Contributor
+  duration: 2021 &mdash; Present
+  url: "https://github.com/autobot/autobot"
+  description: A framework for building autobots led by Optimus Prime
